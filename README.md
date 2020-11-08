@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+字节内推长期有效，简历请发送至: pengqianchao@bytedance.com
 <!--
 **Andrewpqc/Andrewpqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
