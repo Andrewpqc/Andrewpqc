@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-字节内推长期有效，简历请发送至: pengqianchao@bytedance.com
+字节内推，简历请发送至: pengqianchao@bytedance.com
 
 想了解更多，欢迎来我的个人博客: https://andrewpqc.github.io/
 <!--
