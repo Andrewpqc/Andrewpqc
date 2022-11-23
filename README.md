@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-想了解更多，欢迎来我的个人博客: https://andrewpqc.github.io/
 <!--
 **Andrewpqc/Andrewpqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
